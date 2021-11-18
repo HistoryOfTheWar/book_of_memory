@@ -65,6 +65,20 @@ body {
     text-decoration: none
 }
 
+.button-back {
+  margin: 10px 0 10px 40px;
+  font-size: 20px;
+  block-size: 30px;
+  background-color: black;
+  color: #fe6101;
+  border-radius: 5px;
+}
+
+.button-back:hover {
+  background-color: #fe6101;
+  color: black;
+}
+
 .pic {
   margin: 2px 2px 2px;
   box-shadow: 0 0 5px;
