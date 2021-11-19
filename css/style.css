@@ -110,6 +110,12 @@ a {
   box-shadow: 0px 0px 30px;
 }
 
+@media(max-width: 1675px) {
+  .pic {
+    width: 32%;
+  }
+}
+
 /* Меню */
 *{box-sizing: border-box;}
 body {
